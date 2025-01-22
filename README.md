@@ -1,5 +1,5 @@
 # DFA Factory
-Thisapplication is basically a game that emulates the construction of DFA transition state
+This application is basically a game that emulates the construction of DFA transition state
 diagrams, as a pipe connecting puzzle game in a factory setting, where the user is
 tasked to make non-traditional DFAs, using the provided objects of states and
 transitions which resemble materials usually used in a pipe system.
